@@ -8,8 +8,6 @@ jobs:
     #   # specify the version
     #   - image: circleci/golang:1.12
     machine:
-      image: ubuntu-1604:201903-0
-
       # Specify service dependencies here if necessary
       # CircleCI maintains a library of pre-built images
       # documented at https://circleci.com/docs/2.0/circleci-images/
